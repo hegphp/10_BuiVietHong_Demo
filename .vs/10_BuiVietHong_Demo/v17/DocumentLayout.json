@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73DFB81D-9526-4869-9A90-7723AC3F5EDB}|10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj|E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_buiviethong_demo24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73DFB81D-9526-4869-9A90-7723AC3F5EDB}|10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj|solutionrelative:10_buiviethong_demo24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DFB81D-9526-4869-9A90-7723AC3F5EDB}|10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj|e:\\projects\\wpf\\10_buiviethong_demo\\10_buiviethong_demo24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DFB81D-9526-4869-9A90-7723AC3F5EDB}|10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj|solutionrelative:10_buiviethong_demo24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DFB81D-9526-4869-9A90-7723AC3F5EDB}|10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj|E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_buiviethong_demo24\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DFB81D-9526-4869-9A90-7723AC3F5EDB}|10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj|solutionrelative:10_buiviethong_demo24\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30727936-9FC0-4773-85D2-15F027C8187C}|Demo222\\Demo22.csproj|E:\\Projects\\WPF\\10_BuiVietHong_Demo\\demo222\\demo22.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30727936-9FC0-4773-85D2-15F027C8187C}|Demo222\\Demo22.csproj|solutionrelative:demo222\\demo22.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DFB81D-9526-4869-9A90-7723AC3F5EDB}|10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj|E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_buiviethong_demo24\\10_buiviethong_demo24.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73DFB81D-9526-4869-9A90-7723AC3F5EDB}|10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj|solutionrelative:10_buiviethong_demo24\\10_buiviethong_demo24.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F940C62A-09A4-40A4-8179-52241CA0232A}|10_BuiVietHong_Demo\\10_BuiVietHong_Demo.csproj|E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_buiviethong_demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F940C62A-09A4-40A4-8179-52241CA0232A}|10_BuiVietHong_Demo\\10_BuiVietHong_Demo.csproj|solutionrelative:10_buiviethong_demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADB5851-11BA-4E02-9CAA-4CC38363C300}|10_BuiVietHong_Demo03\\10_BuiVietHong_Demo03.csproj|E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_buiviethong_demo03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4ADB5851-11BA-4E02-9CAA-4CC38363C300}|10_BuiVietHong_Demo03\\10_BuiVietHong_Demo03.csproj|solutionrelative:10_buiviethong_demo03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DFB81D-9526-4869-9A90-7723AC3F5EDB}|10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj|E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_buiviethong_demo24\\services\\manageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DFB81D-9526-4869-9A90-7723AC3F5EDB}|10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj|solutionrelative:10_buiviethong_demo24\\services\\manageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DFB81D-9526-4869-9A90-7723AC3F5EDB}|10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj|E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_buiviethong_demo24\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73DFB81D-9526-4869-9A90-7723AC3F5EDB}|10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj|solutionrelative:10_buiviethong_demo24\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30727936-9FC0-4773-85D2-15F027C8187C}|Demo222\\Demo22.csproj|E:\\Projects\\WPF\\10_BuiVietHong_Demo\\demo222\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30727936-9FC0-4773-85D2-15F027C8187C}|Demo222\\Demo22.csproj|solutionrelative:demo222\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\projects\\wpf\\10_buiviethong_demo\\10_buiviethong_assignment01\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:10_buiviethong_assignment01\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo22",
+              "DocumentMoniker": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\Demo222\\Demo22.csproj",
+              "RelativeDocumentMoniker": "Demo222\\Demo22.csproj",
+              "ToolTip": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\Demo222\\Demo22.csproj",
+              "RelativeToolTip": "Demo222\\Demo22.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T02:02:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "10_BuiVietHong_Demo24",
+              "DocumentMoniker": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj",
+              "RelativeDocumentMoniker": "10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj",
+              "ToolTip": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj",
+              "RelativeToolTip": "10_BuiVietHong_Demo24\\10_BuiVietHong_Demo24.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T02:49:04.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "10_BuiVietHong_Demo\\MainWindow.xaml",
+              "ToolTip": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo\\MainWindow.xaml",
+              "RelativeToolTip": "10_BuiVietHong_Demo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T02:48:57.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo24\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "10_BuiVietHong_Demo24\\Models\\Product.cs",
+              "ToolTip": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo24\\Models\\Product.cs",
+              "RelativeToolTip": "10_BuiVietHong_Demo24\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:45:27.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo24\\App.xaml",
+              "RelativeDocumentMoniker": "10_BuiVietHong_Demo24\\App.xaml",
+              "ToolTip": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo24\\App.xaml",
+              "RelativeToolTip": "10_BuiVietHong_Demo24\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T02:31:27.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageProduct.cs",
+              "DocumentMoniker": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo24\\Services\\ManageProduct.cs",
+              "RelativeDocumentMoniker": "10_BuiVietHong_Demo24\\Services\\ManageProduct.cs",
+              "ToolTip": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo24\\Services\\ManageProduct.cs",
+              "RelativeToolTip": "10_BuiVietHong_Demo24\\Services\\ManageProduct.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:17:22.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo24\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "10_BuiVietHong_Demo24\\MainWindow.xaml",
+              "ToolTip": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo24\\MainWindow.xaml",
+              "RelativeToolTip": "10_BuiVietHong_Demo24\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T02:03:57.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo24\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "10_BuiVietHong_Demo24\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo24\\MainWindow.xaml.cs",
+              "RelativeToolTip": "10_BuiVietHong_Demo24\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAswFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:03:56.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\Demo222\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo222\\Models\\Employee.cs",
+              "ToolTip": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\Demo222\\Models\\Employee.cs",
+              "RelativeToolTip": "Demo222\\Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:36:43.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo03\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "10_BuiVietHong_Demo03\\MainWindow.xaml",
+              "ToolTip": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Demo03\\MainWindow.xaml",
+              "RelativeToolTip": "10_BuiVietHong_Demo03\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T09:34:11.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Assignment01\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "10_BuiVietHong_Assignment01\\MainWindow.xaml",
+              "ToolTip": "E:\\Projects\\WPF\\10_BuiVietHong_Demo\\10_BuiVietHong_Assignment01\\MainWindow.xaml",
+              "RelativeToolTip": "10_BuiVietHong_Assignment01\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T03:29:50.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace _10_BuiVietHong_Demo03
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+            //Tao mot textbox va mot nut thiet ke giong trong slide
+        }
+
+        private void txtValue_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+    }
+}

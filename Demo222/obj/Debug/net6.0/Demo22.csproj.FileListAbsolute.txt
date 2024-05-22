@@ -1,0 +1,14 @@
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\bin\Debug\net6.0\Demo22.exe
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\bin\Debug\net6.0\Demo22.deps.json
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\bin\Debug\net6.0\Demo22.runtimeconfig.json
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\bin\Debug\net6.0\Demo22.dll
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\bin\Debug\net6.0\Demo22.pdb
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\obj\Debug\net6.0\Demo22.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\obj\Debug\net6.0\Demo22.AssemblyInfoInputs.cache
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\obj\Debug\net6.0\Demo22.AssemblyInfo.cs
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\obj\Debug\net6.0\Demo22.csproj.CoreCompileInputs.cache
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\obj\Debug\net6.0\Demo22.dll
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\obj\Debug\net6.0\refint\Demo22.dll
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\obj\Debug\net6.0\Demo22.pdb
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\obj\Debug\net6.0\Demo22.genruntimeconfig.cache
+E:\Projects\WPF\10_BuiVietHong_Demo\Demo222\obj\Debug\net6.0\ref\Demo22.dll
